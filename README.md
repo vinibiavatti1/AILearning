@@ -1,2 +1,2 @@
-# Perpectron
-Simple Perceptron implementations
+# AI Learning
+Simple AI Implementations
